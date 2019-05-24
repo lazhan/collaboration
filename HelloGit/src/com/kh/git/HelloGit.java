@@ -6,6 +6,7 @@ public class HelloGit {
 		System.out.println("작업 fuck you!!");
 		
 		System.out.println("메롱");
+		System.out.println("메롱");
 	}
 
 }
